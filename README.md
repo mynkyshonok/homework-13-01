@@ -101,3 +101,16 @@ OpenSSH < 7.4 - agent Protocol Arbitrary Library Loading https://www.exploit-db.
 - Xmas сканирование посылает хосту пакет с флагами FIN, PSH и URG и ожидает ответ от хоста: если RST - порт закрыт, если хост проигнорировал пакет, то открыт
 
 - UDP сканирование посылает udp пакет и ожидает ответ от хоста: если приходит ошибка ICMP port unreachable (тип 3, код 3) — порт закрыт, если сервис ответил своим пакетом - порт открыт
+
+Первые пакеты SYN сканирования в Wireshark:
+
+<img width="1138" height="636" alt="image" src="https://github.com/user-attachments/assets/d12f7a7f-f3a4-4c5e-8ba2-a3acebcd9819" />
+
+Первые пакеты FIN сканирования в Wireshark:
+
+<img width="989" height="637" alt="image" src="https://github.com/user-attachments/assets/3c6ae1f9-416c-4de9-a1e1-d3f03b711ef1" />
+
+Первые пакеты Xmas сканирования в Wireshark:
+
+<img width="961" height="628" alt="image" src="https://github.com/user-attachments/assets/a5a8e2ce-9a40-4183-ae5b-41e8b2141c24" />
+
