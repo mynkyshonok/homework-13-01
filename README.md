@@ -72,6 +72,7 @@ PORT     STATE SERVICE
 8180/tcp open  unknown
 
 
+
 - Одни из обнаруженных уязвимостей:
 
 vsftpd 2.3.4 - Backdoor Command Execution https://www.exploit-db.com/exploits/17491
