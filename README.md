@@ -114,3 +114,6 @@ OpenSSH < 7.4 - agent Protocol Arbitrary Library Loading https://www.exploit-db.
 
 <img width="961" height="628" alt="image" src="https://github.com/user-attachments/assets/a5a8e2ce-9a40-4183-ae5b-41e8b2141c24" />
 
+Первые пакеты UDP сканирования в Wireshark:
+
+<img width="874" height="631" alt="image" src="https://github.com/user-attachments/assets/8ad20524-9009-470c-95e2-4a563ecd951b" />
