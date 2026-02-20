@@ -71,9 +71,12 @@ PORT     STATE SERVICE
 
 8180/tcp open  unknown
 
-Одни из обнаруженных уязвимостей:
+
+- Одни из обнаруженных уязвимостей:
 
 vsftpd 2.3.4 - Backdoor Command Execution https://www.exploit-db.com/exploits/17491
+TelnetD encrypt_keyid - Function Pointer Overwrite  https://www.exploit-db.com/exploits/18280
+OpenSSH < 7.4 - agent Protocol Arbitrary Library Loading https://www.exploit-db.com/exploits/40963
 
 ### Задание 2
 
